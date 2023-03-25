@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2QyZDRjZWEzNzk2OTZiZDk3Yzg1YjYxOTRkMzI0MWRkYjVhYzVkNiZjdD1z/gjrYDwbjnK8x36xZIO/giphy.gif" width="200px" height="200px"/>
 </div>
 
-<div align="center">
+<div id="reachme" align="center">
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Hashnode][hashnode-shield]][hashnode-url]
@@ -17,6 +17,22 @@
 
 [![Banner][banner]][linkedin-url]
 </div>
+
+---
+
+### :man_technologist: About Me :
+
+I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZhYjMwNmEyZDU5MThlM2VmZTVhY2NlMmJlNjE3MWE2ZDA2NzE5ZSZjdD1z/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> from Sri lanka.
+
+- :sparkles: I’m pursuing my BSc. in Computer Science (Software Engineering) at Kingston University.
+
+- :computer: Interested in <b>Web Development, Mobile Development, Ai</b> &<b> Machine Learning.</b>
+
+- :rocket: Daily use and practice: <b>Dart, PHP, Java, HTML, CSS, VSCode, Android Studio, Github.</b> 
+
+- :zap: In my free time, I try out new prompts on ChatGPT and code for both mobile and web apps. I also enjoy watching anime to unwind.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin-url]
 
 <!--
 **devkavin/devkavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,4 +58,4 @@ Here are some ideas to get you started:
 [hashnode-url]: https://hashnode.com/@devkavin
 [views-shield]: https://komarev.com/ghpvc/?username=devkavin&style=for-the-badge&color=blue
 [views-url]: https://komarev.com/ghpvc/?username=devkavin&style=flat-square&color=blue
-[banner]: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3ODZhMWNmOTNmYzBhMzkyODQyZGQ1Y2I5YWIwMDg5YTQ0Yjc1NyZjdD1n/dWesBcTLavkZuG35MI/giphy.gif
+[banner]: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3ODZhMWNmOTNmYzBhMzkyODQyZGQ1Y2I5YWIwMDg5YTQ0Yjc1NyZjdD1n/dWesBcTLavkZuG35MI/giphy.gif 
