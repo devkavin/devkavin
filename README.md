@@ -28,12 +28,29 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 
 - :computer: Interested in <b>Web Development, Mobile Development, Ai</b> &<b> Machine Learning.</b>
 
-- :rocket: Daily use and practice: <b>Dart, PHP, Java, HTML, CSS, VSCode, Android Studio, Github.</b> 
+- :rocket: Daily use and practice: <b>Flutter, PHP, Java, HTML, CSS, VSCode, Android Studio, Github.</b> 
 
 - :zap: In my free time, I try out new prompts on ChatGPT and code for both mobile and web apps. I also enjoy watching anime to unwind.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin-url]
 
+---
+
+<div id="skills">
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,php,java,html,css,js,androidstudio,vscode,git,github,figma,photoshop,mysql,firebase,tensorflow,)](https://skillicons.dev)
+
+</div>
+
+---
+
+### :fire: My Stats :
+
+<div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkavin&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
+
+</div>
 <!--
 **devkavin/devkavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -59,3 +76,5 @@ Here are some ideas to get you started:
 [views-shield]: https://komarev.com/ghpvc/?username=devkavin&style=for-the-badge&color=blue
 [views-url]: https://komarev.com/ghpvc/?username=devkavin&style=flat-square&color=blue
 [banner]: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3ODZhMWNmOTNmYzBhMzkyODQyZGQ1Y2I5YWIwMDg5YTQ0Yjc1NyZjdD1n/dWesBcTLavkZuG35MI/giphy.gif 
+
+
