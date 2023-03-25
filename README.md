@@ -57,19 +57,15 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkavin&layout=compact&theme=github_dark)](https://github.com/devkavin)
 
 </div>
-<!--
-**devkavin/devkavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 
 <!-- MARKDOWN Links -->
 
