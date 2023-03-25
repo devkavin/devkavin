@@ -1,12 +1,17 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100%" height="100%" />
+    <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="100px" height="100px"/>
 </div>
 
 <div align="center">
 
-[![Twitter][twitter-shield]][twitter-url]
-[![Hashnode][Hashnode-shield]][Hashnode-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Hashnode][Hashnode-shield]][Hashnode-url]
+[![Twitter][twitter-shield]][twitter-url]
+
+</div>
+<div align="center">
+
+[![Views][Views-shield]][Views-url]
 
 </div>
 
@@ -31,3 +36,5 @@ Here are some ideas to get you started:
 [twitter-url]: https://twitter.com/devkavinhq
 [Hashnode-shield]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode 
 [Hashnode-url]: https://hashnode.com/@devkavin
+[Views-shield]: https://komarev.com/ghpvc/?username=devkavin&style=flat-square&color=blue
+[Views-url]: https://komarev.com/ghpvc/?username=devkavin&style=flat-square&color=blue
