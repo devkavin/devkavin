@@ -7,13 +7,12 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Hashnode][Hashnode-shield]][Hashnode-url]
 [![Twitter][twitter-shield]][twitter-url]
-
-</div>
-<div align="center">
-
 [![Views][Views-shield]][Views-url]
-
 </div>
+<!-- <div align="center">
+
+
+</div> -->
 
 <!--
 **devkavin/devkavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,5 +35,5 @@ Here are some ideas to get you started:
 [twitter-url]: https://twitter.com/devkavinhq
 [Hashnode-shield]: https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode 
 [Hashnode-url]: https://hashnode.com/@devkavin
-[Views-shield]: https://komarev.com/ghpvc/?username=devkavin&style=flat-square&color=blue
+[Views-shield]: https://komarev.com/ghpvc/?username=devkavin&style=for-the-badge&color=blue
 [Views-url]: https://komarev.com/ghpvc/?username=devkavin&style=flat-square&color=blue
