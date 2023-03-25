@@ -48,7 +48,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 
 <div id="streak">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkavin&theme=github-dark-blue&mode=weekly)](https://github.com/devkavin)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkavin&theme=github_dark&mode=weekly)](https://github.com/devkavin)
 
 </div>
 
