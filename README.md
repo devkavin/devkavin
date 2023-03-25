@@ -38,7 +38,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 
 <div id="skills">
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,php,java,html,css,js,androidstudio,vscode,git,github,figma,photoshop,mysql,firebase,tensorflow,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,php,java,html,css,js,androidstudio,vscode,git,github,figma,photoshop,mysql,firebase,tensorflow)](https://skillicons.dev)
 
 </div>
 
@@ -49,6 +49,8 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkavin&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkavin&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 </div>
 <!--
