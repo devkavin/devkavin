@@ -46,11 +46,19 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 
 ### :fire: My Stats :
 
-<div>
+<div id="streak">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkavin&theme=github-dark-blue&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkavin&theme=github-dark-blue&mode=weekly)](https://github.com/devkavin)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkavin&theme=dark&mode=weekly)](https://git.io/streak-stats)
+</div>
+
+<div id="languages">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkavin)](https://github.com/devkavin)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkavin&layout=compact&theme=vision-friendly-dark)](https://github.com/devkavin)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devkavin&layout=compact&theme=github_dark)](https://github.com/devkavin)
 
 </div>
 <!--
