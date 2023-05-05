@@ -63,6 +63,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [How to set up your Gmail Account to Send Verification OTPs and Other Security Codes](https://devkavin.hashnode.dev/how-to-set-up-your-gmail-account-to-send-verification-otps-and-other-security-codes)
 <!-- BLOG-POST-LIST:END -->
 
 
