@@ -64,7 +64,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 
 <!-- BLOG-POST-LIST:START -->
 - [The Ultimate Guide to Setting Up Composer with XAMPP on Windows 10 &amp; 11](https://devkavin.tech/the-ultimate-guide-to-setting-up-composer-with-xampp-on-windows-10-11)
-- [How to set up your Gmail Account to Send Verification OTPs and Other Security Codes](https://devkavin.tech/how-to-set-up-your-gmail-account-to-send-verification-otps-and-other-security-codes)
+- [How to set up Gmail SMTP to Send Verification OTPs and Other Security Codes](https://devkavin.tech/how-to-set-up-gmail-smtp-to-send-verification-otps-and-other-security-codes)
 <!-- BLOG-POST-LIST:END -->
 
 
