@@ -41,6 +41,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 [![My Skills](https://skillicons.dev/icons?i=flutter,php,java,html,css,js,androidstudio,vscode,git,github,figma,photoshop,mysql,firebase,tensorflow)](https://skillicons.dev)
 
 </div>
+
 ---
 
 <!--START_SECTION:waka-->
