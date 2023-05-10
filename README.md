@@ -9,8 +9,7 @@
 [![Twitter][twitter-shield]][twitter-url]
 <br>
 [![Views][views-shield]][views-url]
-[![wakatime][wakatime-shield]][wakatime-url]
-<a href="https://wakatime.com/@5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f"><img src="https://wakatime.com/badge/user/5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f.svg" alt="Total time coded since May 5 2023" /></a>
+[![Wakatime][wakatime-shield]][wakatime-url]
 </div>
 
 <!-- Banner (add link to banner) -->
@@ -44,8 +43,6 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 </div>
 
 ---
-
-<a href="https://wakatime.com/@5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f"><img src="https://wakatime.com/badge/user/5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f.svg" alt="Total time coded since May 5 2023" /></a>
 
 <!--START_SECTION:waka-->
 
