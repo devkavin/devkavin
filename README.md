@@ -10,7 +10,7 @@
 <br>
 [![Views][views-shield]][views-url]
 [![wakatime][wakatime-shield]][wakatime-url]
-<a href="https://wakatime.com/@5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f"><img src="https://wakatime.com/badge/user/5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f.svg?style=for-the-badge" alt="Total time coded since May 5 2023" /></a>
+<a href="https://wakatime.com/@5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f"><img src="https://wakatime.com/badge/user/5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f.svg" alt="Total time coded since May 5 2023" /></a>
 </div>
 
 <!-- Banner (add link to banner) -->
