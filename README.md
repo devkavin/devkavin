@@ -9,6 +9,7 @@
 [![Twitter][twitter-shield]][twitter-url]
 <br>
 [![Views][views-shield]][views-url]
+[![wakatime][wakatime-shield]](https://wakatime.com/@5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f)
 
 </div>
 
@@ -95,6 +96,8 @@ Dart   0 secs          ████▓░░░░░░░░░░░░░░
 [hashnode-url]: https://hashnode.com/@devkavin
 [views-shield]: https://komarev.com/ghpvc/?username=devkavin&style=for-the-badge&color=blue
 [views-url]: https://komarev.com/ghpvc/?username=devkavin&style=flat-square&color=blue
-[banner]: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3ODZhMWNmOTNmYzBhMzkyODQyZGQ1Y2I5YWIwMDg5YTQ0Yjc1NyZjdD1n/dWesBcTLavkZuG35MI/giphy.gif 
+[banner]: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3ODZhMWNmOTNmYzBhMzkyODQyZGQ1Y2I5YWIwMDg5YTQ0Yjc1NyZjdD1n/dWesBcTLavkZuG35MI/giphy.gif
+
+[wakatime-shield]: https://wakatime.com/badge/user/5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f.svg?style=flat-square
 
 
