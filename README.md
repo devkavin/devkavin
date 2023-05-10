@@ -98,6 +98,6 @@ Dart   0 secs          ████▓░░░░░░░░░░░░░░
 [banner]: https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDc3ODZhMWNmOTNmYzBhMzkyODQyZGQ1Y2I5YWIwMDg5YTQ0Yjc1NyZjdD1n/dWesBcTLavkZuG35MI/giphy.gif
 
 [wakatime-url]: https://wakatime.com/@5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f
-[wakatime-shield]: https://wakatime.com/badge/user/5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f.svg?style=flat-square
+[wakatime-shield]: https://wakatime.com/badge/user/5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f.svg
 
 
