@@ -9,7 +9,7 @@
 [![Twitter][twitter-shield]][twitter-url]
 <br>
 [![Views][views-shield]][views-url]
-[![Wakatime][wakatime-shield]][wakatime-url]
+[![Waka][wakatime-shield]][wakatime-url]
 </div>
 
 <!-- Banner (add link to banner) -->
