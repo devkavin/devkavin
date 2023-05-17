@@ -49,6 +49,8 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 ```text
 From: 10 May 2023 - To: 17 May 2023
 
+Total Time: 12 hrs 23 mins
+
 Dart    12 hrs 21 mins  █████████████████████████   99.62 %
 YAML    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
