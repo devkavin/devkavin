@@ -43,6 +43,7 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 </div>
 
 ---
+### :fire: My Stats :
 
 <!--START_SECTION:waka-->
 
@@ -58,10 +59,6 @@ Git     0 secs          ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
----
-
-### :fire: My Stats :
 
 <div id="streak">
 
