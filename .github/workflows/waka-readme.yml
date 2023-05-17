@@ -16,10 +16,8 @@ jobs:
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ github.token }}
           SHOW_TITLE: true
           TIME_RANGE: last_7_days
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
-          BRANCH: "main"
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          COMMIT_MESSAGE: "Automated Coding Activity Update :alien:"
