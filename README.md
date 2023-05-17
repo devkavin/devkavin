@@ -63,6 +63,11 @@ Git     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@devkavin/8c9d0824-b84b-4cb5-bb29-330d235688f8.png" /></a>
 
+<img
+  src="https://github.com/devkavin/devkavin/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
+
 <div id="streak">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkavin&theme=github-dark-blue)](https://git.io/streak-stats)
