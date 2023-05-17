@@ -62,7 +62,10 @@ Git     0 secs          ░░░░░░░░░░░░░░░░░░�
 <br>
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@devkavin/8c9d0824-b84b-4cb5-bb29-330d235688f8.png" /></a>
+
+<div>
 <figure><embed src="https://wakatime.com/share/@devkavin/589e6433-4081-4e72-9c17-19a79708c950.svg"></embed></figure>
+</div>
 
 <div id="streak">
 
