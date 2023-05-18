@@ -20,4 +20,4 @@ jobs:
           TIME_RANGE: last_7_days
           SHOW_MASKED_TIME: true
           LANG_COUNT: 10
-          COMMIT_MESSAGE: "Automated Coding Activity Update :alien:"
+#           COMMIT_MESSAGE: "Automated Coding Activity Update :alien:"
