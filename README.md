@@ -61,20 +61,6 @@ Git     0 secs          ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 <br>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@devkavin/8c9d0824-b84b-4cb5-bb29-330d235688f8.png" /></a>
-
-<img
-  src="https://wakatime.com/share/@devkavin/d587eba1-4a6a-4cc8-8d09-c00190ec415a.svg"
-  alt="Languages0"
-  width="500"
-  height="600"
-/>
-
-<img
-  src="https://wakatime.com/share/@devkavin/2b8e841a-0caf-4328-8c94-1a91102fff5f.svg"
-  alt="Languages0"
-/>
-
 <div id="streak">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devkavin&theme=github-dark-blue)](https://git.io/streak-stats)
