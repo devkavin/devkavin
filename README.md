@@ -65,13 +65,19 @@ Git     0 secs          ░░░░░░░░░░░░░░░░░░�
 
 <img
   src="https://wakatime.com/share/@devkavin/d587eba1-4a6a-4cc8-8d09-c00190ec415a.svg"
-  alt="Languages0
+  alt="Languages0"
 />
+
+<img
+  src="https://wakatime.com/share/@devkavin/2b8e841a-0caf-4328-8c94-1a91102fff5f.svg"
+  alt="Languages0"
+/>
+
    
 
 <img
   src="https://wakatime.com/share/@devkavin/2b8e841a-0caf-4328-8c94-1a91102fff5f.svg"
-  alt="Languages0
+  alt="Languages2
 />
 
 <div id="streak">
