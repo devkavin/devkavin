@@ -48,13 +48,13 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2023 - To: 23 May 2023
+From: 17 May 2023 - To: 24 May 2023
 
-Total Time: 19 hrs 51 mins
+Total Time: 18 hrs 40 mins
 
-Dart   19 hrs 34 mins  ████████████████████████▓   98.60 %
-YAML   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Git    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Dart   18 hrs 26 mins  ████████████████████████▓   98.73 %
+YAML   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Git    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
