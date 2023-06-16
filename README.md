@@ -48,11 +48,12 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2023 - To: 13 June 2023
+From: 07 June 2023 - To: 14 June 2023
 
-Total Time: 3 hrs 33 mins
+Total Time: 3 hrs 38 mins
 
-Dart   3 hrs 33 mins   █████████████████████████   100.00 %
+Dart    3 hrs 37 mins   █████████████████████████   99.40 %
+Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
