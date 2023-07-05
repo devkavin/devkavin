@@ -48,16 +48,16 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2023 - To: 02 July 2023
+From: 26 June 2023 - To: 03 July 2023
 
-Total Time: 9 hrs 50 mins
+Total Time: 8 hrs 57 mins
 
-Dart         5 hrs 52 mins   ███████████████░░░░░░░░░░   59.63 %
-Other        2 hrs 26 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
-Text         1 hr 16 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.90 %
-PHP          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Dart         4 hrs 59 mins   ██████████████░░░░░░░░░░░   55.66 %
+Other        2 hrs 26 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.21 %
+Text         1 hr 16 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+PHP          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
