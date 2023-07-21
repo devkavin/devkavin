@@ -48,20 +48,20 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2023 - To: 17 July 2023
+From: 12 July 2023 - To: 19 July 2023
 
-Total Time: 79 hrs 26 mins
+Total Time: 67 hrs 37 mins
 
-PHP             40 hrs 7 mins   ████████████▓░░░░░░░░░░░░   50.52 %
-Dart            31 hrs 43 mins  ██████████░░░░░░░░░░░░░░░   39.94 %
-CSS             4 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
-Other           1 hr 17 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-YAML            1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Apache Config   14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Git Config      10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-JavaScript      8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-JSON            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-XML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+PHP              42 hrs 35 mins  ███████████████▓░░░░░░░░░   62.98 %
+Dart             9 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+CSS              6 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
+Other            5 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Python           1 hr 14 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+HTML             38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+YAML             30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Git              18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Apache Config    14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JavaScript       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
