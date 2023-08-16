@@ -48,19 +48,17 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2023 - To: 13 August 2023
+From: 07 August 2023 - To: 14 August 2023
 
-Total Time: 48 hrs 57 mins
+Total Time: 51 hrs 49 mins
 
-PHP              48 hrs 22 mins  ████████████████████████▓   98.83 %
-Bash             11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Other            10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-Git              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Blade Template   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+PHP          51 hrs 35 mins  █████████████████████████   99.53 %
+Dart         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Git          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Batchfile    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
