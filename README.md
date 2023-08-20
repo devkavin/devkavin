@@ -48,16 +48,17 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2023 - To: 17 August 2023
+From: 11 August 2023 - To: 18 August 2023
 
-Total Time: 60 hrs 15 mins
+Total Time: 57 hrs 59 mins
 
-PHP              60 hrs 1 min    █████████████████████████   99.61 %
+PHP              57 hrs 4 mins   ████████████████████████▓   98.40 %
+Java             38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 Dart             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Git              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+ActionScript 3   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Git              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Batchfile        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
