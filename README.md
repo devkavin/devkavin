@@ -48,18 +48,18 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 August 2023 - To: 24 August 2023
+From: 18 August 2023 - To: 25 August 2023
 
-Total Time: 26 hrs 11 mins
+Total Time: 26 hrs 48 mins
 
-PHP              25 hrs 21 mins  ████████████████████████▒   96.81 %
-Java             38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-ActionScript 3   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Ezhil            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+PHP              26 hrs 31 mins  ████████████████████████▓   98.99 %
+Ezhil            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Bash             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+SQL              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Text             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+ActionScript 3   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Apache Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
