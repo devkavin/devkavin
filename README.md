@@ -48,20 +48,20 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2023 - To: 30 August 2023
+From: 24 August 2023 - To: 31 August 2023
 
-Total Time: 19 hrs 56 mins
+Total Time: 15 hrs 7 mins
 
-PHP              13 hrs 44 mins  █████████████████▒░░░░░░░   68.89 %
-Dart             5 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.09 %
-XML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Bash             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-SQL              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Ezhil            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Apache Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-ActionScript 3   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+PHP              8 hrs 55 mins   ██████████████▓░░░░░░░░░░   59.09 %
+Dart             5 hrs 48 mins   █████████▓░░░░░░░░░░░░░░░   38.38 %
+XML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Bash             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+SQL              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Ezhil            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+YAML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Apache Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
