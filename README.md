@@ -76,6 +76,10 @@ ActionScript   0 secs          ░░░░░░░░░░░░░░░░�
 
 ---
 
+[![GitHubTrophy]][github-trophy]
+
+---
+
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
@@ -99,5 +103,7 @@ ActionScript   0 secs          ░░░░░░░░░░░░░░░░�
 
 [wakatime-url]: https://wakatime.com/@5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f
 [wakatime-shield]: https://wakatime.com/badge/user/5c1a4546-e40a-49d0-a1ff-c67e8cf8f15f.svg?style=for-the-badge
+
+[github-trophy]: https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
 
 
