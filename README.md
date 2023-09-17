@@ -48,12 +48,12 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2023 - To: 14 September 2023
+From: 08 September 2023 - To: 15 September 2023
 
-Total Time: 9 hrs 13 mins
+Total Time: 6 hrs 38 mins
 
-PHP          9 hrs 13 mins   █████████████████████████   99.95 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+PHP          6 hrs 38 mins   █████████████████████████   99.93 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
