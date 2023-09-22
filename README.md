@@ -48,15 +48,16 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2023 - To: 19 September 2023
+From: 13 September 2023 - To: 20 September 2023
 
-Total Time: 29 mins
+Total Time: 43 mins
 
-PHP          21 mins         █████████████████▓░░░░░░░   71.27 %
-INI          5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
-Markdown     2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Objective-C    19 mins         ███████████░░░░░░░░░░░░░░   44.46 %
+PHP            14 mins         ████████▒░░░░░░░░░░░░░░░░   32.80 %
+INI            5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
+Markdown       2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+ActionScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Other          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
