@@ -48,20 +48,20 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-Total Time: 4 hrs 4 mins
+Total Time: 8 hrs 29 mins
 
-Objective-C      2 hrs 14 mins   █████████████▓░░░░░░░░░░░   54.96 %
-Ezhil            37 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
-ActionScript     29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-PHP              19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Dart             9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-INI              5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-CSS              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Objective-C      3 hrs 53 mins   ███████████▒░░░░░░░░░░░░░   45.94 %
+PHP              2 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   35.09 %
+Ezhil            37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+ActionScript     29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Dart             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+INI              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+CSS              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Bash             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
