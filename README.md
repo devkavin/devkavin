@@ -48,15 +48,15 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2023 - To: 05 October 2023
+From: 29 September 2023 - To: 06 October 2023
 
-Total Time: 10 hrs 11 mins
+Total Time: 10 hrs 59 mins
 
-PHP              8 hrs 24 mins   ████████████████████▓░░░░   82.48 %
-Blade Template   1 hr 5 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
-Bash             37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 %
-Docker           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+PHP              8 hrs 23 mins   ███████████████████░░░░░░   76.36 %
+Blade Template   1 hr 41 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Bash             50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Docker           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 GDScript3        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
