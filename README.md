@@ -48,20 +48,14 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2023 - To: 08 October 2023
+From: 02 October 2023 - To: 09 October 2023
 
-Total Time: 9 hrs 59 mins
+Total Time: 6 hrs 1 min
 
-PHP              7 hrs 23 mins   ██████████████████▓░░░░░░   74.00 %
-Blade Template   1 hr 41 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
-Bash             50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Docker           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-GDScript3        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Git              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP              4 hrs 6 mins    █████████████████░░░░░░░░   68.17 %
+Blade Template   1 hr 40 mins    ███████░░░░░░░░░░░░░░░░░░   27.74 %
+Bash             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Docker           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
