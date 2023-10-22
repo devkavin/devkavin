@@ -48,20 +48,20 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2023 - To: 19 October 2023
+From: 13 October 2023 - To: 20 October 2023
 
-Total Time: 26 hrs 22 mins
+Total Time: 22 hrs 18 mins
 
-Blade Template   12 hrs 38 mins  ████████████░░░░░░░░░░░░░   47.91 %
-PHP              12 hrs 6 mins   ███████████▒░░░░░░░░░░░░░   45.88 %
-JSON             49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Other            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
-TSQL             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-INI              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-Bash             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Objective-C      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Assembly         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-CSS              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Blade Template   11 hrs 24 mins  ████████████▓░░░░░░░░░░░░   51.17 %
+PHP              9 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.62 %
+JSON             49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Other            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+TSQL             8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+INI              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Bash             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Objective-C      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Assembly         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+ActionScript 3   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
