@@ -48,19 +48,20 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2023 - To: 29 October 2023
+From: 23 October 2023 - To: 30 October 2023
 
-Total Time: 37 hrs 40 mins
+Total Time: 32 hrs 50 mins
 
-PHP              24 hrs 4 mins   ████████████████░░░░░░░░░   63.92 %
-Blade Template   12 hrs 59 mins  ████████▓░░░░░░░░░░░░░░░░   34.50 %
-Dart             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-Objective-C      6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-ActionScript 3   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-CSS              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+PHP              20 hrs 56 mins  ████████████████░░░░░░░░░   63.79 %
+Blade Template   10 hrs 44 mins  ████████▒░░░░░░░░░░░░░░░░   32.71 %
+Dart             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Bash             24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Other            9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Apache Config    5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+ActionScript 3   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+CSS              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Git              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Assembly         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
