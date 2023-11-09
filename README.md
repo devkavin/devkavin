@@ -48,15 +48,15 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 October 2023 - To: 06 November 2023
+From: 31 October 2023 - To: 07 November 2023
 
-Total Time: 40 hrs 39 mins
+Total Time: 32 hrs 29 mins
 
-Blade Template   22 hrs 58 mins  ██████████████░░░░░░░░░░░   56.51 %
-PHP              17 hrs 33 mins  ██████████▓░░░░░░░░░░░░░░   43.19 %
-Git              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Blade Template   16 hrs 15 mins  ████████████▓░░░░░░░░░░░░   50.04 %
+PHP              15 hrs 48 mins  ████████████▒░░░░░░░░░░░░   48.67 %
+JSON             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Git              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
