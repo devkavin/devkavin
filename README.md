@@ -48,19 +48,19 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 November 2023 - To: 15 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
-Total Time: 37 hrs 29 mins
+Total Time: 34 hrs 35 mins
 
-PHP              19 hrs 41 mins  █████████████░░░░░░░░░░░░   52.50 %
-Blade Template   8 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
-Vue.js           5 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
-JavaScript       1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-CSS              47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Bash             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Other            13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Git              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-JSON             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+PHP              15 hrs 46 mins  ███████████▒░░░░░░░░░░░░░   45.58 %
+Blade Template   9 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   27.73 %
+Vue.js           5 hrs 49 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+JavaScript       1 hr 48 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+CSS              47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Bash             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Other            13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+JSON             7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Git              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 Apache Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
