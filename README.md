@@ -48,16 +48,16 @@ I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkP
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2023 - To: 12 December 2023
+From: 06 December 2023 - To: 13 December 2023
 
-Total Time: 37 hrs 49 mins
+Total Time: 34 hrs 32 mins
 
-PHP              26 hrs 4 mins   █████████████████▒░░░░░░░   68.94 %
-Blade Template   11 hrs 5 mins   ███████▒░░░░░░░░░░░░░░░░░   29.34 %
-CSS              13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-XML              11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-HTML             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+PHP              19 hrs 40 mins  ██████████████▒░░░░░░░░░░   56.98 %
+Blade Template   14 hrs 10 mins  ██████████▒░░░░░░░░░░░░░░   41.03 %
+CSS              13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+XML              11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+HTML             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+JSON             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
