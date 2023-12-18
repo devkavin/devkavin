@@ -24,7 +24,7 @@
 
 I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZhYjMwNmEyZDU5MThlM2VmZTVhY2NlMmJlNjE3MWE2ZDA2NzE5ZSZjdD1z/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> from Sri lanka.
 
-- :sparkles: Graduated with a honors degree for BSc. in Computer Science (Software Engineering) from Kingston University.
+- :sparkles: Kingston University, BSc. in Computer Science (Software Engineering), Graduated with honors.
 
 - :computer: Interested in <b>Web Development, Mobile Development, Ai</b> &<b> Machine Learning.</b>
 
