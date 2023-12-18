@@ -22,13 +22,13 @@
 
 ### :man_technologist: About Me :
 
-I am a Computer Science student <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZhYjMwNmEyZDU5MThlM2VmZTVhY2NlMmJlNjE3MWE2ZDA2NzE5ZSZjdD1z/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> from Sri lanka.
+I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZhYjMwNmEyZDU5MThlM2VmZTVhY2NlMmJlNjE3MWE2ZDA2NzE5ZSZjdD1z/5aYfJYohCSeYgtVlUj/giphy.gif" width="30"> from Sri lanka.
 
-- :sparkles: I’m pursuing my BSc. in Computer Science (Software Engineering) at Kingston University.
+- :sparkles: Graduated with a honors degree for BSc. in Computer Science (Software Engineering) from Kingston University.
 
 - :computer: Interested in <b>Web Development, Mobile Development, Ai</b> &<b> Machine Learning.</b>
 
-- :rocket: Daily use and practice: <b>Flutter, PHP, Java, HTML, CSS, VSCode, Android Studio, Github.</b> 
+- :rocket: Daily use and practice: <b>PHP, Laravel, Java, HTML, CSS, Flutter, VSCode, Android Studio, Github.</b> 
 
 - :zap: In my free time, I try out new prompts on ChatGPT and code for both mobile and web apps. I also enjoy watching anime to unwind.
 
