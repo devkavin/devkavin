@@ -48,18 +48,16 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2024 - To: 05 March 2024
+From: 28 February 2024 - To: 06 March 2024
 
-Total Time: 10 hrs 40 mins
+Total Time: 4 hrs 34 mins
 
-Python           6 hrs 33 mins   ███████████████▒░░░░░░░░░   61.44 %
-PHP              3 hrs 24 mins   ████████░░░░░░░░░░░░░░░░░   32.02 %
-Other            29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Text             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Blade Template   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-RPMSpec          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python           3 hrs 38 mins   ████████████████████░░░░░   79.65 %
+PHP              52 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
+Blade Template   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+RPMSpec          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
