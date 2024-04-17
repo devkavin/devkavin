@@ -48,20 +48,20 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 April 2024 - To: 14 April 2024
+From: 08 April 2024 - To: 15 April 2024
 
-Total Time: 16 hrs 6 mins
+Total Time: 8 hrs 8 mins
 
-PHP              6 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   38.17 %
-JSON             4 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
-TypeScript       2 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-JavaScript       1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Bash             56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-Other            42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-Git Config       31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Apache Config    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Image (svg)      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Text             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+PHP              3 hrs 15 mins   ██████████░░░░░░░░░░░░░░░   39.95 %
+TypeScript       2 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.69 %
+JSON             2 hrs 2 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
+JavaScript       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Git Config       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Other            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Image (svg)      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Apache Config    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
