@@ -79,8 +79,8 @@ No activity tracked
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Guide to Setting Up Composer with XAMPP on Windows 10 &amp; 11](https://devkavin.tech/the-ultimate-guide-to-setting-up-composer-with-xampp-on-windows-10-11)
-- [How to set up Gmail SMTP to Send Verification OTPs and Other Security Codes](https://devkavin.tech/how-to-set-up-gmail-smtp-to-send-verification-otps-and-other-security-codes)
+- [The Ultimate Guide to Setting Up Composer with XAMPP on Windows 10 &amp; 11](https://devkavin.hashnode.dev/the-ultimate-guide-to-setting-up-composer-with-xampp-on-windows-10-11)
+- [How to set up Gmail SMTP to Send Verification OTPs and Other Security Codes](https://devkavin.hashnode.dev/how-to-set-up-gmail-smtp-to-send-verification-otps-and-other-security-codes)
 <!-- BLOG-POST-LIST:END -->
 
 
