@@ -48,17 +48,17 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 May 2024 - To: 08 May 2024
+From: 02 May 2024 - To: 09 May 2024
 
-Total Time: 2 hrs 3 mins
+Total Time: 7 hrs 56 mins
 
-Bash             1 hr 4 mins     █████████████░░░░░░░░░░░░   52.14 %
-INI              45 mins         █████████░░░░░░░░░░░░░░░░   36.61 %
-PHP              9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-JSON             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Blade Template   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+PHP              5 hrs 27 mins   █████████████████▒░░░░░░░   68.82 %
+Bash             1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.60 %
+INI              54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Blade Template   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
