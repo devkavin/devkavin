@@ -48,13 +48,15 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2024 - To: 19 May 2024
+From: 13 May 2024 - To: 20 May 2024
 
-Total Time: 53 hrs 37 mins
+Total Time: 56 hrs 52 mins
 
-PHP              43 hrs 56 mins  ████████████████████▒░░░░   81.94 %
-Blade Template   9 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
-Other            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+PHP              47 hrs 43 mins  █████████████████████░░░░   83.92 %
+Blade Template   8 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 %
+Other            19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Bash             9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
