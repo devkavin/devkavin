@@ -48,14 +48,12 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2024 - To: 04 July 2024
+From: 28 June 2024 - To: 05 July 2024
 
-Total Time: 3 hrs 26 mins
+Total Time: 49 mins
 
-Dart         2 hrs 21 mins   █████████████████▒░░░░░░░   68.79 %
-Python       47 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
-Other        16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python   47 mins         ███████████████████████▓░   94.70 %
+Other    2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
 ```
 
 <!--END_SECTION:waka-->
