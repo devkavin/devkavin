@@ -48,20 +48,20 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2024 - To: 20 July 2024
+From: 14 July 2024 - To: 21 July 2024
 
-Total Time: 6 hrs 15 mins
+Total Time: 6 hrs 13 mins
 
-Python           3 hrs 21 mins   █████████████▒░░░░░░░░░░░   53.56 %
-TypeScript       2 hrs 12 mins   ████████▓░░░░░░░░░░░░░░░░   35.30 %
-Other            19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-PHP              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-CSS              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-JavaScript       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Git              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-TSConfig         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       3 hrs 21 mins   █████████████▒░░░░░░░░░░░   53.93 %
+TypeScript   2 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   35.54 %
+Other        19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+PHP          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
