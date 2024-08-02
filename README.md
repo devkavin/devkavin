@@ -48,11 +48,12 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2024 - To: 30 July 2024
+From: 24 July 2024 - To: 31 July 2024
 
-Total Time: 23 mins
+Total Time: 39 mins
 
-Dart   23 mins         █████████████████████████   100.00 %
+Dart              34 mins         ██████████████████████░░░   87.62 %
+Java Properties   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
 ```
 
 <!--END_SECTION:waka-->
