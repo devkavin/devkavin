@@ -48,14 +48,16 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 July 2024 - To: 07 August 2024
+From: 01 August 2024 - To: 08 August 2024
 
-Total Time: 1 hr 13 mins
+Total Time: 2 hrs 53 mins
 
-Java             1 hr 1 min      █████████████████████░░░░   84.20 %
-INI              8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-Blade Template   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Java             2 hrs 40 mins   ███████████████████████▒░   92.74 %
+INI              8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Blade Template   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
