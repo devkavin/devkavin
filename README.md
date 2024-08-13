@@ -48,18 +48,16 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2024 - To: 10 August 2024
+From: 04 August 2024 - To: 11 August 2024
 
-Total Time: 4 hrs 43 mins
+Total Time: 5 hrs 42 mins
 
-Java             4 hrs 3 mins    █████████████████████▒░░░   85.63 %
-PHP              26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
-INI              8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Blade Template   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Java             4 hrs 21 mins   ███████████████████░░░░░░   76.24 %
+PHP              1 hr 18 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
+Git Config       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
