@@ -48,19 +48,19 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2024 - To: 15 August 2024
+From: 09 August 2024 - To: 16 August 2024
 
-Total Time: 24 hrs 31 mins
+Total Time: 23 hrs 50 mins
 
-Dart              13 hrs 2 mins   █████████████▒░░░░░░░░░░░   53.19 %
-PHP               8 hrs 56 mins   █████████░░░░░░░░░░░░░░░░   36.46 %
-Java              1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-Java Properties   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-Other             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Markdown          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Dart              13 hrs 2 mins   █████████████▓░░░░░░░░░░░   54.70 %
+PHP               8 hrs 56 mins   █████████▒░░░░░░░░░░░░░░░   37.50 %
+Java              1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Java Properties   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Other             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Markdown          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 YAML              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-XML               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Git Config        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+XML               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Git Config        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Bash              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
