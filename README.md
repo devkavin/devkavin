@@ -48,17 +48,15 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2024 - To: 20 August 2024
+From: 14 August 2024 - To: 21 August 2024
 
-Total Time: 14 hrs 39 mins
+Total Time: 13 hrs 57 mins
 
-PHP     13 hrs 52 mins  ███████████████████████▓░   94.73 %
-Dart    36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Other   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-JSON    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Bash    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-YAML    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Roff    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+PHP     13 hrs 48 mins  ████████████████████████▓   98.97 %
+Other   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JSON    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Bash    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Roff    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
