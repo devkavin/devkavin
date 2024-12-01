@@ -48,12 +48,11 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2024 - To: 28 November 2024
+From: 23 November 2024 - To: 30 November 2024
 
-Total Time: 1 hr 35 mins
+Total Time: 0 secs
 
-PHP          1 hr 6 mins     █████████████████▒░░░░░░░   69.27 %
-JavaScript   29 mins         ███████▓░░░░░░░░░░░░░░░░░   30.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
