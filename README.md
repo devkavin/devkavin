@@ -48,17 +48,17 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
-Total Time: 14 hrs 1 min
+Total Time: 13 hrs 52 mins
 
-PHP              7 hrs 45 mins   ██████████████░░░░░░░░░░░   55.37 %
-Blade Template   5 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   39.90 %
-Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Bash             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-JavaScript       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+PHP              7 hrs 40 mins   █████████████▓░░░░░░░░░░░   55.31 %
+Blade Template   5 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.32 %
+Markdown         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Bash             10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
 JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Image (svg)      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Image (svg)      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
