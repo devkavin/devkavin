@@ -48,11 +48,14 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 February 2025 - To: 10 February 2025
+From: 04 February 2025 - To: 11 February 2025
 
-Total Time: 0 secs
+Total Time: 48 mins
 
-No activity tracked
+Bash         18 mins         █████████▒░░░░░░░░░░░░░░░   37.21 %
+PHP          15 mins         ████████░░░░░░░░░░░░░░░░░   32.44 %
+JavaScript   14 mins         ███████▓░░░░░░░░░░░░░░░░░   30.20 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
