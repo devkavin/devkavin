@@ -48,15 +48,16 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 February 2025 - To: 07 March 2025
+From: 01 March 2025 - To: 08 March 2025
 
-Total Time: 2 hrs 42 mins
+Total Time: 2 hrs 53 mins
 
-PHP              2 hrs 19 mins   █████████████████████▒░░░   85.79 %
-JavaScript       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-Blade Template   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Bash             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+PHP              2 hrs 21 mins   ████████████████████▒░░░░   81.67 %
+JavaScript       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Blade Template   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Bash             6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+TypeScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
