@@ -48,17 +48,18 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
-Total Time: 6 hrs 14 mins
+Total Time: 7 hrs 18 mins
 
-PHP          4 hrs 58 mins   ████████████████████░░░░░   79.64 %
-Bash         42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-Other        13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-TypeScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+PHP          4 hrs 58 mins   █████████████████░░░░░░░░   67.97 %
+Docker       1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
+Bash         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+TypeScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+INI          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
