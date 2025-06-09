@@ -48,15 +48,13 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 May 2025 - To: 06 June 2025
+From: 31 May 2025 - To: 07 June 2025
 
-Total Time: 4 hrs 14 mins
+Total Time: 1 hr 32 mins
 
-PHP      2 hrs 38 mins   ███████████████▓░░░░░░░░░   62.29 %
-Docker   1 hr 32 mins    █████████░░░░░░░░░░░░░░░░   36.23 %
-Bash     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Docker   1 hr 32 mins    ████████████████████████▓   99.14 %
+INI      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
