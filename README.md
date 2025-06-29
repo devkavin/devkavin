@@ -48,15 +48,12 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2025 - To: 26 June 2025
+From: 21 June 2025 - To: 28 June 2025
 
-Total Time: 1 hr 18 mins
+Total Time: 37 mins
 
-YAML         42 mins         █████████████▒░░░░░░░░░░░   53.62 %
-PHP          26 mins         ████████▓░░░░░░░░░░░░░░░░   34.04 %
-Bash         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-Docker       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+YAML   22 mins         ██████████████▓░░░░░░░░░░   58.53 %
+Bash   15 mins         ██████████▒░░░░░░░░░░░░░░   41.47 %
 ```
 
 <!--END_SECTION:waka-->
