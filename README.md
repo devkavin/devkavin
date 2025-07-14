@@ -29,7 +29,7 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 
 - :rocket: Daily use and practice: <b>PHP, Laravel, Java, HTML, CSS, Flutter, VSCode, Android Studio, Github.</b> 
 
-- :zap: In my free time, I try out new prompts on ChatGPT and code for both mobile and web apps. I also enjoy watching anime to unwind.
+- :zap: Huge anime fan by night (and day!).
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)][linkedin-url]
 
