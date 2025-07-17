@@ -47,11 +47,13 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2025 - To: 14 July 2025
+From: 08 July 2025 - To: 15 July 2025
 
-Total Time: 0 secs
+Total Time: 1 hr 19 mins
 
-No activity tracked
+YAML   1 hr 11 mins    ██████████████████████▒░░   89.53 %
+Bash   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
