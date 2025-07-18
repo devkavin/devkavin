@@ -47,13 +47,19 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 July 2025 - To: 15 July 2025
+From: 09 July 2025 - To: 16 July 2025
 
-Total Time: 1 hr 19 mins
+Total Time: 4 hrs 35 mins
 
-YAML   1 hr 11 mins    ██████████████████████▒░░   89.53 %
-Bash   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+YAML                       2 hrs 2 mins    ███████████░░░░░░░░░░░░░░   44.35 %
+PHP                        1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   23.79 %
+Docker                     40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+Bash                       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+JavaScript                 13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+Markdown                   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+Other                      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Nginx configuration file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JSON                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
