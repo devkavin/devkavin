@@ -47,20 +47,20 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 July 2025 - To: 26 July 2025
+From: 20 July 2025 - To: 27 July 2025
 
-Total Time: 13 hrs 46 mins
+Total Time: 12 hrs 8 mins
 
-PHP              9 hrs 2 mins    ████████████████▒░░░░░░░░   65.62 %
-Other            1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-CSS              56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-XML              54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-JSON             26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Docker           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-YAML             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Bash             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-Blade Template   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-JavaScript       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+PHP              7 hrs 27 mins   ███████████████▒░░░░░░░░░   61.48 %
+Other            1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+CSS              56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 %
+XML              53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+JSON             26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Docker           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+YAML             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Bash             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Blade Template   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JavaScript       9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
