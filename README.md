@@ -47,19 +47,20 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2025 - To: 22 December 2025
+From: 16 December 2025 - To: 23 December 2025
 
-Total Time: 7 hrs 21 mins
+Total Time: 12 hrs 4 mins
 
-PHP              4 hrs 16 mins   ██████████████▓░░░░░░░░░░   58.21 %
-Blade Template   1 hr 52 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.48 %
-YAML             47 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Bash             22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP              7 hrs 13 mins   ███████████████░░░░░░░░░░   59.77 %
+Bash             1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+YAML             1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+Blade Template   1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+Other            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Git              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Docker           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
