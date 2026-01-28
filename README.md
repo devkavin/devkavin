@@ -47,11 +47,13 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2026 - To: 25 January 2026
+From: 19 January 2026 - To: 26 January 2026
 
-Total Time: 0 secs
+Total Time: 24 mins
 
-No activity tracked
+Astro         20 mins         ████████████████████▓░░░░   82.02 %
+TypeScript    2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Image (svg)   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
 ```
 
 <!--END_SECTION:waka-->
