@@ -47,17 +47,18 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2026 - To: 19 February 2026
+From: 13 February 2026 - To: 20 February 2026
 
-Total Time: 42 mins
+Total Time: 1 hr 29 mins
 
-Bash         23 mins               █████████████▓░░░░░░░░░░░   55.11 %
-TypeScript   7 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-SQL          7 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-Markdown     2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-TSConfig     1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+TypeScript   43 mins               ████████████░░░░░░░░░░░░░   48.34 %
+Bash         23 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
+JSON         11 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
+SQL          7 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
+Markdown     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+TSConfig     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
