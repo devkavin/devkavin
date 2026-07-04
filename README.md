@@ -47,12 +47,13 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2026 - To: 01 July 2026
+From: 25 June 2026 - To: 02 July 2026
 
-Total Time: 38 mins
+Total Time: 1 hr 31 mins
 
-Markdown   24 mins               ████████████████░░░░░░░░░   63.85 %
-Other      13 mins               █████████░░░░░░░░░░░░░░░░   36.15 %
+Other        48 mins               █████████████▒░░░░░░░░░░░   53.70 %
+Markdown     24 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
+TypeScript   17 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
 ```
 
 <!--END_SECTION:waka-->
