@@ -47,13 +47,16 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2026 - To: 02 July 2026
+From: 26 June 2026 - To: 03 July 2026
 
-Total Time: 1 hr 31 mins
+Total Time: 2 hrs 4 mins
 
-Other        48 mins               █████████████▒░░░░░░░░░░░   53.70 %
-Markdown     24 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.97 %
-TypeScript   17 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
+Other        48 mins               █████████▓░░░░░░░░░░░░░░░   39.28 %
+TypeScript   43 mins               ████████▓░░░░░░░░░░░░░░░░   35.04 %
+Markdown     26 mins               █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
+JavaScript   2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+JSON         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+YAML         1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
