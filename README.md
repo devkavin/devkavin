@@ -47,12 +47,14 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2026 - To: 13 July 2026
+From: 07 July 2026 - To: 14 July 2026
 
-Total Time: 30 mins
+Total Time: 3 hrs 56 mins
 
-YAML   21 mins               █████████████████▒░░░░░░░   69.51 %
-PHP    9 mins                ███████▓░░░░░░░░░░░░░░░░░   30.49 %
+PHP          1 hr 47 mins          ███████████▒░░░░░░░░░░░░░   45.53 %
+TypeScript   1 hr 17 mins          ████████░░░░░░░░░░░░░░░░░   32.53 %
+CSS          30 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+YAML         21 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
 ```
 
 <!--END_SECTION:waka-->
