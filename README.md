@@ -47,20 +47,20 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2026 - To: 27 September 2026
+From: 21 September 2026 - To: 28 September 2026
 
-Total Time: 10 hrs 40 mins
+Total Time: 12 hrs 56 mins
 
-Markdown                   2 hrs 41 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
-Other                      2 hrs 27 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
-YAML                       1 hr 58 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-JavaScript                 52 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Python                     45 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-Bash                       35 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Nginx configuration file   20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-CSS                        19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-PHP                        10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
-Astro                      8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Other                      3 hrs 10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.52 %
+Markdown                   2 hrs 40 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+Bash                       2 hrs 6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+YAML                       2 hrs 1 min           ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+JavaScript                 52 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Python                     45 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+Nginx configuration file   20 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+CSS                        19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Astro                      8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+JSON                       7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
