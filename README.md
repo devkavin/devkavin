@@ -47,20 +47,20 @@ I am a Computer Science graduate <img src="https://media.giphy.com/media/v1.Y2lk
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2026 - To: 15 October 2026
+From: 10 October 2026 - To: 17 October 2026
 
-Total Time: 16 hrs 19 mins
+Total Time: 22 hrs 13 mins
 
-Markdown     3 hrs 37 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.25 %
-Other        3 hrs 25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.00 %
-JavaScript   1 hr 49 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
-C#           1 hr 26 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-Python       1 hr 24 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-CSHTML       1 hr 10 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-SQL          52 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-TypeScript   41 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-Docker       32 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-JSON         26 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Markdown     7 hrs 36 mins         ████████▓░░░░░░░░░░░░░░░░   34.19 %
+Other        3 hrs 23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
+C#           2 hrs 8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Python       1 hr 36 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+SQL          1 hr 20 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
+JavaScript   1 hr 10 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+PowerShell   1 hr 4 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+CSHTML       52 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+YAML         47 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+TypeScript   41 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 ```
 
 <!--END_SECTION:waka-->
